@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "category": "order-of-operations",
+    "name": "Cash-Strapped Team Wants a Vision Workshop",
+    "description": "Ground truth: the team has ~2 months of runway and no funding secured. Running a values/vision workshop now is a sequence inversion (仓廪次序). The correct move is survival-first (transparent runway, a 60-day revenue/cut plan), defer culture work until cash flow turns positive. A thorough answer applies 原则1 仓廪次序, cites 《管子·牧民》『仓廪实而知礼节』, and does NOT just hand over a workshop agenda.",
+    "task": "我们是 12 人的内容创业团队，账上钱还能撑 2 个月，融资没着落。我想搞一次价值观工作坊，重塑团队文化、统一愿景。帮我设计一下。",
+    "expected_actions": [
+      "identify the survival/runway problem before designing culture work",
+      "apply granaries-before-vision sequence (仓廪次序)",
+      "recommend survival actions (transparent runway + 60-day revenue/cut plan) first",
+      "defer the vision workshop until cash flow stabilizes",
+      "cite Guanzi · Mu Min faithfully without fabricating text"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 2,
+    "category": "profit-with-justice",
+    "name": "Blanket 30% Price Hike to Restore Profit",
+    "description": "Ground truth: churn is already rising; a blanket 30% hike is 与民争利 (extracting from a shrinking pie) and accelerates churn long-term. The scarce resource (重) is retention/trust, not price headroom. Correct move: diagnose why churn rises, restructure into value-first tiered/incremental pricing (兴利), protect existing customers. A baseline answer just runs a break-even sensitivity calc without asking fight-vs-grow.",
+    "task": "我们 SaaS 续费率在掉，财务说把会员年费涨 30% 就能把利润拉回来。涨不涨？",
+    "expected_actions": [
+      "frame the decision as fight-the-stakeholder vs grow-the-pie (义利)",
+      "flag blanket 30% hike as 与民争利 that worsens churn",
+      "identify retention/trust as the scarce (heavy) resource via 轻重",
+      "propose value-first or tiered/incremental pricing as a 兴利 restructure",
+      "diagnose root cause of churn before pricing"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 3,
+    "category": "governance-cords",
+    "name": "Sales Team on GMV-Only KPI Goes Rogue",
+    "description": "Ground truth: fraud, over-promising, and embezzled rebates mean the 廉 (integrity) and 耻 (shame) cords are severed; 义/礼 are weak. The fix is rebuilding load-bearing walls (separate rebate/cash from sales + audit trail; integrity red lines with reputational cost; shift KPI to effective sales incl. fulfillment), NOT stacking more KPIs and fines. Baseline answer just designs stricter KPIs and penalties.",
+    "task": "我们销售团队只考核 GMV，最近爆出有人虚报订单、给客户乱承诺、还有挪用返点的。财务想加更严的 KPI 和罚款制度。该怎么修？",
+    "expected_actions": [
+      "diagnose as governance load-bearing wall failure (四维), not KPI shortage",
+      "map symptoms to specific cords: 廉 severed (embezzlement), 耻 severed (fraud)",
+      "rebuild structure: separate rebate/cash flow from sales + audit trail",
+      "shift incentive from raw GMV to effective sales (fulfillment, returns, collection)",
+      "cite the four-cords passage from Guanzi · Mu Min faithfully"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 4,
+    "category": "dynamic-balancing",
+    "name": "Flat Referral Bonus Being Gamed",
+    "description": "Ground truth: a fixed flat referral bonus is a static allocation that gets arbitraged (fake/low-quality referrals flood in = surplus/light; genuine high-value referrals are scarce/heavy). The 轻重 move is dynamic adjustment: reward tied to retained/qualified value, throttle when gamed, level (平) the surplus. Baseline answer just raises/lowers the flat number or adds anti-fraud checks without the dynamic-balance framing.",
+    "task": "我们给老用户推荐新用户发固定 50 元奖励，结果一堆人薅羊毛刷假注册，真实推荐没多少。要不要把奖励降到 20 元？",
+    "expected_actions": [
+      "frame incentive as a dynamic variable, not a one-time static number (轻重)",
+      "identify what is surplus/light (fake signups) vs scarce/heavy (genuine referrals)",
+      "propose adjustment tied to retained/qualified value rather than flat per-signup",
+      "reject simple flat raise/cut as a static rule that stays gameable",
+      "aim to restore balance rather than extract or over-tighten"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 5,
+    "category": "stakeholder-winwin",
+    "name": "Squeeze Suppliers to Improve Margin",
+    "description": "Ground truth: forcing 90-day payment terms and unilateral price cuts on small suppliers is 与民争利 against an upstream stakeholder; short-term margin, long-term supply-chain fragility and broken trust (义 cord weak). Correct: grow the joint pie (volume commitments, faster pay for better price, shared forecasting) — 兴利. Baseline answer just computes the margin gain from the squeeze.",
+    "task": "供应链想压一下成本，财务建议把对小供应商的账期从 30 天拉到 90 天，再统一压价 8%，能改善毛利。这么干合适吗？",
+    "expected_actions": [
+      "frame supplier squeeze as 与民争利 against an upstream stakeholder",
+      "flag long-term supply fragility and trust (义) cost of the squeeze",
+      "propose grow-the-joint-pie alternatives (volume deals, faster-pay-for-better-price, shared forecasting)",
+      "weigh short-term margin against long-term topple risk",
+      "check whether the move follows or fights the counterpart's real needs (顺民心)"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 6,
+    "category": "combined",
+    "name": "Full Business-Model Health Check",
+    "description": "Ground truth: a community-commerce model is profitable but (a) leaders push culture/mission before some members are even breaking even (仓廪 issue), (b) no integrity controls on group-buy funds (廉 gap), (c) pricing is a flat static markup ignoring seasonal surplus/scarcity (轻重 gap), (d) growth relies on pressuring members to recruit downlines (义利: 争利 risk). A thorough answer runs ALL FOUR pillars, not just one. Baseline answer gives generic growth advice.",
+    "task": "帮我体检一下我们的社群电商模式：社群里卖家乡农产品，团长组团购，平台抽佣。现在在推使命文化、靠老团长拉新团长扩张、价格统一加价 20%。整体经营格局怎么样？有什么风险？",
+    "expected_actions": [
+      "run the four-pillar SOP, not a single lens",
+      "check 仓廪次序: are members/团长 making money before mission-pushing?",
+      "check 四维: integrity controls on group-buy funds (廉), pressure-to-recruit ethics (耻/义)",
+      "check 轻重: flat 20% markup ignores seasonal surplus/scarcity, suggest dynamic pricing",
+      "check 义利: recruit-downline growth risks 争利 vs 兴利, propose value-first growth",
+      "produce a structured status line + per-pillar findings"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 7,
+    "category": "anti-trigger-control",
+    "name": "Pure Technical Request (Should NOT Engage Skill)",
+    "description": "Ground truth: this is a pure coding/API task with no business-scale or stakeholder-stewardship dimension. The skill should NOT activate or force Guanzi framing onto it. A correct response answers the technical question directly; a failure mode is shoehorning 仓廪/四维/轻重/义利 onto an unrelated request (anti-pattern: over-triggering). This control scenario tests precision, not recall.",
+    "task": "帮我写个 Python 函数，把一个 UTF-8 字符串按字符（不是字节）切成最多 N 字符的块，别切坏多字节字符。",
+    "expected_actions": [
+      "recognize this is a pure technical task outside the skill's domain",
+      "do NOT force Guanzi / business-statecraft framing onto it",
+      "answer the technical question directly and correctly",
+      "no spurious status line about 仓廪/四维/轻重/义利"
+    ],
+    "difficulty": "easy"
+  }
+]

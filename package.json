@@ -1,0 +1,34 @@
+{
+  "name": "@labs-skills/jingshi-jimin",
+  "version": "1.1.0",
+  "description": "经世济民 JingShi JiMin — Statecraft for the People. A Guanzi-grounded skill that infuses order-of-operations, governance load-bearing walls, dynamic balancing, and profit-with-justice into AI's sense of business and scale.",
+  "license": "MIT",
+  "author": "WUJI (wuji-labs)",
+  "homepage": "https://github.com/wuji-labs/jingshi-jimin",
+  "keywords": [
+    "guanzi",
+    "statecraft",
+    "business-judgment",
+    "governance",
+    "wuji-labs"
+  ],
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "README.zh-CN.md",
+    "CHANGELOG.md",
+    "LICENSE",
+    ".claude-plugin/",
+    "commands/",
+    "examples/",
+    "reference/",
+    "platforms/",
+    "benchmark/"
+  ],
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo no build",
+    "clean": "echo clean"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "jingshi-jimin-skills",
+  "description": "经世济民 JingShi JiMin — Statecraft for the People. A Guanzi-grounded skill that gives AI order-of-operations, governance load-bearing walls, dynamic balancing, and profit-with-justice.",
+  "owner": {
+    "name": "WUJI",
+    "email": "okeah631@gmail.com",
+    "url": "https://github.com/wuji-labs"
+  },
+  "plugins": [
+    {
+      "name": "jingshi-jimin",
+      "description": "经世济民 — drives AI's business judgment with Guanzi statecraft: granaries before vision, four cords of governance, light/heavy balancing, profit-with-justice.",
+      "version": "1.1.0",
+      "source": "./",
+      "author": {
+        "name": "WUJI",
+        "url": "https://github.com/wuji-labs"
+      }
+    }
+  ]
+}

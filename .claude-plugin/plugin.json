@@ -1,0 +1,26 @@
+{
+  "name": "jingshi-jimin",
+  "version": "1.1.0",
+  "description": "经世济民 — Statecraft for the People. Infuses Guanzi (《管子》) wisdom into AI's business and scale judgment: order-of-operations (granaries before vision), four governance load-bearing walls, dynamic balancing, and profit-with-justice.",
+  "author": "WUJI (wuji-labs)",
+  "homepage": "https://github.com/wuji-labs/jingshi-jimin",
+  "repository": "https://github.com/wuji-labs/jingshi-jimin",
+  "license": "MIT",
+  "keywords": [
+    "guanzi",
+    "statecraft",
+    "business-judgment",
+    "governance",
+    "incentive-design",
+    "pricing",
+    "stakeholder",
+    "classical-chinese",
+    "wuji-labs"
+  ],
+  "skills": [
+    { "name": "jingshi-jimin", "path": "SKILL.md", "language": "zh-CN" }
+  ],
+  "commands": [
+    { "name": "jingshi-jimin", "path": "commands/jingshi-jimin.md" }
+  ]
+}
