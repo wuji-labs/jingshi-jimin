@@ -1,6 +1,20 @@
 ---
 name: jingshi-jimin
-description: 以《管子》经世济民智慧注入 AI 的经营与格局判断——提供仓廪次序（物质先于教化）、牧民四维（礼义廉耻治理承重墙）、轻重之术（资源动态平衡）、义利兼顾（与民兴利非争利）四大框架。当用户做经营格局判断、商业方案体检、定价/激励/资源调配、组织治理底座设计、利益相关方共赢结构、或权衡短期利益与长期格局时自动触发。用户会说「这个商业模式行不行 / 该先做大还是先分 / 怎么设计激励 / 怎么定价 / 这是不是在割韭菜 / 团队该谈钱还是谈文化 / 帮我看看这个经营方案 / 怎么做大蛋糕 / 治理怎么搭 / 义利怎么平衡」等。反触发：纯技术实现、写代码、调 API、个人情绪疏导、与经营格局无关的事实查询——这些不要调本 skill。属建议性内容，非投资/财务/法律专业意见。
+description: >-
+  Infuses the statecraft wisdom of the 《管子》Guanzi into AI's business and
+  big-picture judgment — four frameworks: granary-order (仓廪次序, material before
+  moral cultivation), the Four Anchors of governance (牧民四维, propriety /
+  righteousness / integrity / shame as load-bearing), weight-and-balance
+  (轻重之术, dynamic resource equilibrium), and righteousness-with-profit (义利兼顾,
+  create value with people, not extract from them). Activates when: judging
+  a business's strategic standing, auditing a plan, setting pricing / incentives
+  / resource allocation, designing a governance foundation, structuring
+  stakeholder win-win, or weighing short-term against long-term gain.
+  Users say: "is this business model sound," "grow the pie or split it first,"
+  "how to design incentives," "how to price," "is this fleecing customers,"
+  "balance righteousness and profit." Not for: technical implementation, writing
+  code, emotional support, or lookups unrelated to business strategy. Disclaimer:
+  advisory only — NOT investment, financial, or legal advice.
 version: 1.1.0
 date: 2026-06-02
 author: WUJI (wuji-labs)
