@@ -8,6 +8,11 @@
 
 **[🇨🇳 中文](README.zh-CN.md)** | **[🇺🇸 English](README.md)** | **[🇯🇵 日本語](README.ja.md)** | **[🇰🇷 한국어](README.ko.md)** | **[🇪🇸 Español](README.es.md)** | **🇧🇷 Português** | **[🇫🇷 Français](README.fr.md)**
 
+<p align="center">
+  <img src="assets/wechat-personal.jpg" alt="Add WUJI on WeChat" width="200">
+</p>
+<p align="center">Digitalize para adicionar o autor no WeChat · Scan to add the author on WeChat</p>
+
 Este é um dos dez presentes que a linhagem de sabedoria chinesa (華夏道脈) oferece à comunidade mundial de código aberto (sondando ambos os extremos · tendo o Wuji como eixo).
 Não erguemos um centrismo chinês nem afirmamos que a civilização chinesa seja superior a qualquer outra; apenas começamos pela linhagem que melhor conhecemos,
 polimos-na até virar uma ferramenta utilizável e a colocamos na prateleira compartilhada de ferramentas da humanidade. Doravante chegarão, um após o outro, os presentes das civilizações

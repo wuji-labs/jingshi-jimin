@@ -8,6 +8,11 @@
 
 **[🇨🇳 中文](README.zh-CN.md)** | **[🇺🇸 English](README.md)** | **[🇯🇵 日本語](README.ja.md)** | **[🇰🇷 한국어](README.ko.md)** | **🇪🇸 Español** | **[🇧🇷 Português](README.pt.md)** | **[🇫🇷 Français](README.fr.md)**
 
+<p align="center">
+  <img src="assets/wechat-personal.jpg" alt="Add WUJI on WeChat" width="200">
+</p>
+<p align="center">Escanear para agregar al autor en WeChat · Scan to add the author on WeChat</p>
+
 Este es uno de los diez regalos que el linaje de sabiduría china (華夏道脈) ofrece a la comunidad mundial del código abierto (sondeando ambos extremos · con el Wuji como eje).
 No erigimos un centrismo chino ni sostenemos que la civilización china sea superior a ninguna otra; simplemente empezamos por el linaje que mejor conocemos,
 lo pulimos hasta convertirlo en una herramienta utilizable y la colocamos en el estante compartido de herramientas de la humanidad. En adelante llegarán, uno tras otro, los regalos de las civilizaciones

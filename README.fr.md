@@ -8,6 +8,11 @@
 
 **[🇨🇳 中文](README.zh-CN.md)** | **[🇺🇸 English](README.md)** | **[🇯🇵 日本語](README.ja.md)** | **[🇰🇷 한국어](README.ko.md)** | **[🇪🇸 Español](README.es.md)** | **[🇧🇷 Português](README.pt.md)** | **🇫🇷 Français**
 
+<p align="center">
+  <img src="assets/wechat-personal.jpg" alt="Add WUJI on WeChat" width="200">
+</p>
+<p align="center">Scannez pour ajouter l'auteur sur WeChat · Scan to add the author on WeChat</p>
+
 Ceci est l'un des dix présents que la lignée de sagesse chinoise (華夏道脈) offre à la communauté mondiale de l'open source (en sondant les deux extrêmes · le Wuji pour pivot).
 Nous n'érigeons aucun centrisme chinois et ne prétendons pas que la civilisation chinoise soit supérieure à quelque autre que ce soit ; nous commençons simplement par la lignée que nous connaissons le mieux,
 nous la polissons jusqu'à en faire un outil utilisable, et nous la déposons sur l'étagère à outils partagée de l'humanité. Viendront ensuite, l'un après l'autre, les présents des civilisations

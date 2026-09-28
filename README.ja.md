@@ -8,6 +8,11 @@
 
 **[🇨🇳 中文](README.zh-CN.md)** | **[🇺🇸 English](README.md)** | **🇯🇵 日本語** | **[🇰🇷 한국어](README.ko.md)** | **[🇪🇸 Español](README.es.md)** | **[🇧🇷 Português](README.pt.md)** | **[🇫🇷 Français](README.fr.md)**
 
+<p align="center">
+  <img src="assets/wechat-personal.jpg" alt="Add WUJI on WeChat" width="200">
+</p>
+<p align="center">QRコードをスキャンして作者のWeChatを追加 · Scan to add the author on WeChat</p>
+
 これは華夏の道脈が世界のオープンソースコミュニティに捧げる十の贈り物のひとつです（両端を叩き · 無極を樞紐とする）。
 私たちは華夏本位を立てず、華夏文明がいかなる文明よりも優れていると主張することもありません。ただ、自らが最もよく知る道脈から始め、
 それを使える道具へと磨き上げ、人類共通のオープンソースの道具棚に置くだけです。今後はギリシャ、ナーランダ、
